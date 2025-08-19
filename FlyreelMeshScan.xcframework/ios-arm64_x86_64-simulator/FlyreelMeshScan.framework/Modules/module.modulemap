@@ -1,0 +1,6 @@
+framework module FlyreelMeshScan {
+  umbrella header "FlyreelMeshScan.h"
+  export *
+
+  module * { export * }
+}
