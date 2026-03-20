@@ -6,28 +6,8 @@
     "children": [
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Metal",
-        "printedName": "Metal",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan",
         "declAttributes": [
@@ -46,8 +26,8 @@
       },
       {
         "kind": "Import",
-        "name": "MetalKit",
-        "printedName": "MetalKit",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan",
         "declAttributes": [
@@ -56,8 +36,8 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan",
         "declAttributes": [
@@ -66,20 +46,13 @@
       },
       {
         "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan",
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
       },
       {
         "kind": "Import",
@@ -93,13 +66,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -107,13 +73,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
       },
       {
         "kind": "Import",
@@ -129,6 +88,90 @@
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan",
         "declAttributes": [
@@ -157,36 +200,116 @@
       },
       {
         "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "MetalKit",
+        "printedName": "MetalKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "ARKit",
+        "printedName": "ARKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "MetalKit",
+        "printedName": "MetalKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
-        "name": "GameKit",
-        "printedName": "GameKit",
+        "name": "MetalKit",
+        "printedName": "MetalKit",
         "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
-        "name": "SceneKit",
-        "printedName": "SceneKit",
+        "name": "ARKit",
+        "printedName": "ARKit",
         "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
-        "name": "VideoToolbox",
-        "printedName": "VideoToolbox",
+        "name": "ARKit",
+        "printedName": "ARKit",
         "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
+        "name": "ARKit",
+        "printedName": "ARKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ARKit",
+        "printedName": "ARKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ARKit",
+        "printedName": "ARKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ARKit",
+        "printedName": "ARKit",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan",
         "declAttributes": [
@@ -205,18 +328,8 @@
       },
       {
         "kind": "Import",
-        "name": "Metal",
-        "printedName": "Metal",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan",
         "declAttributes": [
@@ -231,6 +344,153 @@
         "moduleName": "FlyreelMeshScan",
         "declAttributes": [
           "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MetalKit",
+        "printedName": "MetalKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ARKit",
+        "printedName": "ARKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "ShaderTypes",
+        "printedName": "ShaderTypes",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MetalKit",
+        "printedName": "MetalKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ARKit",
+        "printedName": "ARKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "MetalKit",
+        "printedName": "MetalKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ARKit",
+        "printedName": "ARKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "ShaderTypes",
+        "printedName": "ShaderTypes",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "AccessControl"
         ]
       },
       {
@@ -941,154 +1201,18 @@
       },
       {
         "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan",
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ARKit",
-        "printedName": "ARKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "Metal",
-        "printedName": "Metal",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "MetalKit",
-        "printedName": "MetalKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "MeshScanComputeNative",
-        "printedName": "MeshScanComputeNative",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ShaderTypes",
-        "printedName": "ShaderTypes",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
       },
       {
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ARKit",
-        "printedName": "ARKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "Metal",
-        "printedName": "Metal",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "MeshScanComputeNative",
-        "printedName": "MeshScanComputeNative",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan",
         "declAttributes": [
@@ -1101,118 +1225,6 @@
         "printedName": "AVFoundation",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "ARKit",
-        "printedName": "ARKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "AVKit",
-        "printedName": "AVKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "MetalKit",
-        "printedName": "MetalKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ARKit",
-        "printedName": "ARKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "ShaderTypes",
-        "printedName": "ShaderTypes",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -1226,79 +1238,46 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan"
       },
       {
         "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ARKit",
-        "printedName": "ARKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "MetalKit",
-        "printedName": "MetalKit",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan"
       },
       {
         "kind": "Import",
-        "name": "ARKit",
-        "printedName": "ARKit",
+        "name": "Lottie",
+        "printedName": "Lottie",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan",
         "declAttributes": [
-          "RawDocComment"
+          "AccessControl"
         ]
       },
       {
         "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan"
       },
       {
         "kind": "Import",
-        "name": "MetalKit",
-        "printedName": "MetalKit",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan"
       },
@@ -1342,40 +1321,58 @@
       },
       {
         "kind": "Import",
-        "name": "ARKit",
-        "printedName": "ARKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "MetalKit",
-        "printedName": "MetalKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ARKit",
-        "printedName": "ARKit",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "ARKit",
+        "printedName": "ARKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -1386,15 +1383,29 @@
       },
       {
         "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
+        "name": "GameKit",
+        "printedName": "GameKit",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan"
       },
       {
         "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
+        "name": "SceneKit",
+        "printedName": "SceneKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "VideoToolbox",
+        "printedName": "VideoToolbox",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan",
         "declAttributes": [
@@ -1424,6 +1435,111 @@
         "printedName": "simd",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "ARKit",
+        "printedName": "ARKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Metal",
+        "printedName": "Metal",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "MetalKit",
+        "printedName": "MetalKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "MeshScanComputeNative",
+        "printedName": "MeshScanComputeNative",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ShaderTypes",
+        "printedName": "ShaderTypes",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ARKit",
+        "printedName": "ARKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Metal",
+        "printedName": "Metal",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "MeshScanComputeNative",
+        "printedName": "MeshScanComputeNative",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Metal",
+        "printedName": "Metal",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Metal",
+        "printedName": "Metal",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -1620,20 +1736,6 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "MetalKit",
-        "printedName": "MetalKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "ARKit",
-        "printedName": "ARKit",
-        "declKind": "Import",
         "moduleName": "FlyreelMeshScan",
         "declAttributes": [
           "RawDocComment"
@@ -1643,131 +1745,6 @@
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ARKit",
-        "printedName": "ARKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "MetalKit",
-        "printedName": "MetalKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ARKit",
-        "printedName": "ARKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "ShaderTypes",
-        "printedName": "ShaderTypes",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ARKit",
-        "printedName": "ARKit",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan",
         "declAttributes": [
@@ -1789,15 +1766,12 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "FlyreelMeshScan"
       },
       {
         "kind": "Import",
-        "name": "ARKit",
-        "printedName": "ARKit",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "FlyreelMeshScan",
         "declAttributes": [
@@ -1813,6 +1787,107 @@
       },
       {
         "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MetalKit",
+        "printedName": "MetalKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FlyreelMeshScan"
+      },
+      {
+        "kind": "Import",
         "name": "MetalKit",
         "printedName": "MetalKit",
         "declKind": "Import",
@@ -1820,30 +1895,6 @@
       },
       {
         "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "Lottie",
-        "printedName": "Lottie",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -1851,57 +1902,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "AVKit",
-        "printedName": "AVKit",
-        "declKind": "Import",
-        "moduleName": "FlyreelMeshScan"
       },
       {
         "kind": "Import",
@@ -2450,13 +2450,6 @@
           },
           {
             "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "UITraitChangeObservable",
             "printedName": "UITraitChangeObservable",
             "usr": "s:5UIKit23UITraitChangeObservableP",
@@ -2476,109 +2469,18 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/CodeMesh.swift",
-      "kind": "Array",
-      "offset": 329,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/CodeMesh.swift",
-      "kind": "Array",
-      "offset": 369,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/CodeMesh.swift",
-      "kind": "Array",
-      "offset": 411,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/CodeMesh.swift",
-      "kind": "IntegerLiteral",
-      "offset": 467,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/CodeMesh.swift",
-      "kind": "IntegerLiteral",
-      "offset": 512,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Extensions\/Storyboard+Loaders.swift",
-      "kind": "StringLiteral",
-      "offset": 161,
-      "length": 18,
-      "value": "\"NativeMeshScanV3\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Extensions\/View+Module.swift",
       "kind": "BooleanLiteral",
-      "offset": 294,
-      "length": 5,
-      "value": "false"
+      "offset": 489,
+      "length": 4,
+      "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 347,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 397,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 443,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 488,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 538,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 643,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 740,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/ToolbarView.swift",
-      "kind": "StringLiteral",
-      "offset": 2634,
-      "length": 10,
-      "value": "\"ellipsis\""
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/BlurView.swift",
+      "kind": "FloatLiteral",
+      "offset": 286,
+      "length": 3,
+      "value": "0.5"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/BubbleShape.swift",
@@ -2602,417 +2504,354 @@
       "value": "25"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ARProjector.swift",
-      "kind": "IntegerLiteral",
-      "offset": 310,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ARProjector.swift",
-      "kind": "IntegerLiteral",
-      "offset": 335,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ARProjector.swift",
-      "kind": "IntegerLiteral",
-      "offset": 360,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ARProjector.swift",
-      "kind": "IntegerLiteral",
-      "offset": 386,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ARProjector.swift",
-      "kind": "IntegerLiteral",
-      "offset": 412,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ARProjector.swift",
-      "kind": "IntegerLiteral",
-      "offset": 438,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
-      "kind": "IntegerLiteral",
-      "offset": 284,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3128,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
       "kind": "StringLiteral",
-      "offset": 3430,
-      "length": 7,
-      "value": "\"Start\""
+      "offset": 3448,
+      "length": 6,
+      "value": "\"Exit\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3632,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3664,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
       "kind": "StringLiteral",
-      "offset": 3763,
+      "offset": 3628,
+      "length": 21,
+      "value": "\"Exit 360° Capture?\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 3676,
+      "length": 91,
+      "value": "\"If you exit, you’ll be taken back to the chat where you can restart your 360° capture.\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 3799,
+      "length": 6,
+      "value": "\"Exit\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 3846,
+      "length": 13,
+      "value": "\"Exit tapped\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 3896,
+      "length": 8,
+      "value": "\"Cancel\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 3947,
+      "length": 15,
+      "value": "\"Cancel tapped\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 4028,
       "length": 10,
-      "value": "\"Continue\""
+      "value": "\"Complete\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3940,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3968,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/PreviewData.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
       "kind": "StringLiteral",
-      "offset": 156,
-      "length": 4237,
-      "value": "\"{\"v\":\"5.5.7\",\"meta\":{\"g\":\"LottieFiles AE 0.1.21\",\"a\":\"\",\"k\":\"\",\"d\":\"\",\"tc\":\"\"},\"fr\":29.9700012207031,\"ip\":0,\"op\":45.0000018328876,\"w\":90,\"h\":266,\"nm\":\"Comp 1\",\"ddd\":0,\"assets\":[],\"layers\":[{\"ddd\":0,\"ind\":1,\"ty\":4,\"nm\":\"top arrow Outlines\",\"sr\":1,\"ks\":{\"o\":{\"a\":1,\"k\":[{\"i\":{\"x\":[0.667],\"y\":[1]},\"o\":{\"x\":[0.333],\"y\":[0]},\"t\":10,\"s\":[0]},{\"i\":{\"x\":[0.667],\"y\":[1]},\"o\":{\"x\":[0.333],\"y\":[0]},\"t\":25,\"s\":[100]},{\"t\":35.0000014255792,\"s\":[0]}],\"ix\":11},\"r\":{\"a\":0,\"k\":0,\"ix\":10},\"p\":{\"a\":1,\"k\":[{\"i\":{\"x\":0.667,\"y\":1},\"o\":{\"x\":0.333,\"y\":0},\"t\":10,\"s\":[44.5,25.807,0],\"to\":[0,8.667,0],\"ti\":[0,-8.667,0]},{\"t\":35.0000014255792,\"s\":[44.5,77.807,0]}],\"ix\":2},\"a\":{\"a\":0,\"k\":[179,112.889,0],\"ix\":1},\"s\":{\"a\":0,\"k\":[33.333,33.333,100],\"ix\":6}},\"ao\":0,\"shapes\":[{\"ty\":\"gr\",\"it\":[{\"ind\":0,\"ty\":\"sh\",\"ix\":1,\"ks\":{\"a\":0,\"k\":{\"i\":[[0,0],[0,0],[0,0]],\"o\":[[0,0],[0,0],[0,0]],\"v\":[[-119,-52.889],[1.322,52.889],[119,-52.889]],\"c\":false},\"ix\":2},\"nm\":\"Path 1\",\"mn\":\"ADBE Vector Shape - Group\",\"hd\":false},{\"ty\":\"st\",\"c\":{\"a\":0,\"k\":[1,1,1,1],\"ix\":3},\"o\":{\"a\":0,\"k\":100,\"ix\":4},\"w\":{\"a\":0,\"k\":24,\"ix\":5},\"lc\":2,\"lj\":2,\"bm\":0,\"nm\":\"Stroke 1\",\"mn\":\"ADBE Vector Graphic - Stroke\",\"hd\":false},{\"ty\":\"tr\",\"p\":{\"a\":0,\"k\":[179,112.889],\"ix\":2},\"a\":{\"a\":0,\"k\":[0,0],\"ix\":1},\"s\":{\"a\":0,\"k\":[100,100],\"ix\":3},\"r\":{\"a\":0,\"k\":0,\"ix\":6},\"o\":{\"a\":0,\"k\":100,\"ix\":7},\"sk\":{\"a\":0,\"k\":0,\"ix\":4},\"sa\":{\"a\":0,\"k\":0,\"ix\":5},\"nm\":\"Transform\"}],\"nm\":\"Group 1\",\"np\":2,\"cix\":2,\"bm\":0,\"ix\":1,\"mn\":\"ADBE Vector Group\",\"hd\":false}],\"ip\":0,\"op\":45.0000018328876,\"st\":0,\"bm\":0},{\"ddd\":0,\"ind\":2,\"ty\":4,\"nm\":\"middle arrow Outlines\",\"sr\":1,\"ks\":{\"o\":{\"a\":1,\"k\":[{\"i\":{\"x\":[0.667],\"y\":[1]},\"o\":{\"x\":[0.333],\"y\":[0]},\"t\":5,\"s\":[0]},{\"i\":{\"x\":[0.667],\"y\":[1]},\"o\":{\"x\":[0.333],\"y\":[0]},\"t\":20,\"s\":[100]},{\"t\":30.0000012219251,\"s\":[0]}],\"ix\":11},\"r\":{\"a\":0,\"k\":0,\"ix\":10},\"p\":{\"a\":1,\"k\":[{\"i\":{\"x\":0.667,\"y\":1},\"o\":{\"x\":0.333,\"y\":0},\"t\":5,\"s\":[44.5,108.667,0],\"to\":[0,8.667,0],\"ti\":[0,-8.667,0]},{\"t\":30.0000012219251,\"s\":[44.5,160.667,0]}],\"ix\":2},\"a\":{\"a\":0,\"k\":[179,112.889,0],\"ix\":1},\"s\":{\"a\":0,\"k\":[33.333,33.333,100],\"ix\":6}},\"ao\":0,\"shapes\":[{\"ty\":\"gr\",\"it\":[{\"ind\":0,\"ty\":\"sh\",\"ix\":1,\"ks\":{\"a\":0,\"k\":{\"i\":[[0,0],[0,0],[0,0]],\"o\":[[0,0],[0,0],[0,0]],\"v\":[[-119,-52.889],[1.322,52.889],[119,-52.889]],\"c\":false},\"ix\":2},\"nm\":\"Path 1\",\"mn\":\"ADBE Vector Shape - Group\",\"hd\":false},{\"ty\":\"st\",\"c\":{\"a\":0,\"k\":[1,1,1,1],\"ix\":3},\"o\":{\"a\":0,\"k\":100,\"ix\":4},\"w\":{\"a\":0,\"k\":24,\"ix\":5},\"lc\":2,\"lj\":2,\"bm\":0,\"nm\":\"Stroke 1\",\"mn\":\"ADBE Vector Graphic - Stroke\",\"hd\":false},{\"ty\":\"tr\",\"p\":{\"a\":0,\"k\":[179,112.889],\"ix\":2},\"a\":{\"a\":0,\"k\":[0,0],\"ix\":1},\"s\":{\"a\":0,\"k\":[100,100],\"ix\":3},\"r\":{\"a\":0,\"k\":0,\"ix\":6},\"o\":{\"a\":0,\"k\":100,\"ix\":7},\"sk\":{\"a\":0,\"k\":0,\"ix\":4},\"sa\":{\"a\":0,\"k\":0,\"ix\":5},\"nm\":\"Transform\"}],\"nm\":\"Group 1\",\"np\":2,\"cix\":2,\"bm\":0,\"ix\":1,\"mn\":\"ADBE Vector Group\",\"hd\":false}],\"ip\":0,\"op\":45.0000018328876,\"st\":0,\"bm\":0},{\"ddd\":0,\"ind\":3,\"ty\":4,\"nm\":\"lower arrow Outlines\",\"sr\":1,\"ks\":{\"o\":{\"a\":1,\"k\":[{\"i\":{\"x\":[0.667],\"y\":[1]},\"o\":{\"x\":[0.333],\"y\":[0]},\"t\":0,\"s\":[0]},{\"i\":{\"x\":[0.667],\"y\":[1]},\"o\":{\"x\":[0.333],\"y\":[0]},\"t\":15,\"s\":[100]},{\"t\":25.0000010182709,\"s\":[0]}],\"ix\":11},\"r\":{\"a\":0,\"k\":0,\"ix\":10},\"p\":{\"a\":1,\"k\":[{\"i\":{\"x\":0.667,\"y\":1},\"o\":{\"x\":0.333,\"y\":0},\"t\":0,\"s\":[44.5,191.526,0],\"to\":[0,8.667,0],\"ti\":[0,-8.667,0]},{\"t\":25.0000010182709,\"s\":[44.5,243.526,0]}],\"ix\":2},\"a\":{\"a\":0,\"k\":[179,130,0],\"ix\":1},\"s\":{\"a\":0,\"k\":[33.333,33.333,100],\"ix\":6}},\"ao\":0,\"shapes\":[{\"ty\":\"gr\",\"it\":[{\"ind\":0,\"ty\":\"sh\",\"ix\":1,\"ks\":{\"a\":0,\"k\":{\"i\":[[0,0],[0,0],[0,0]],\"o\":[[0,0],[0,0],[0,0]],\"v\":[[-119,-52.889],[1.322,52.889],[119,-52.889]],\"c\":false},\"ix\":2},\"nm\":\"Path 1\",\"mn\":\"ADBE Vector Shape - Group\",\"hd\":false},{\"ty\":\"st\",\"c\":{\"a\":0,\"k\":[1,1,1,1],\"ix\":3},\"o\":{\"a\":0,\"k\":100,\"ix\":4},\"w\":{\"a\":0,\"k\":24,\"ix\":5},\"lc\":2,\"lj\":2,\"bm\":0,\"nm\":\"Stroke 1\",\"mn\":\"ADBE Vector Graphic - Stroke\",\"hd\":false},{\"ty\":\"tr\",\"p\":{\"a\":0,\"k\":[179,112.889],\"ix\":2},\"a\":{\"a\":0,\"k\":[0,0],\"ix\":1},\"s\":{\"a\":0,\"k\":[100,100],\"ix\":3},\"r\":{\"a\":0,\"k\":0,\"ix\":6},\"o\":{\"a\":0,\"k\":100,\"ix\":7},\"sk\":{\"a\":0,\"k\":0,\"ix\":4},\"sa\":{\"a\":0,\"k\":0,\"ix\":5},\"nm\":\"Transform\"}],\"nm\":\"Group 1\",\"np\":2,\"cix\":2,\"bm\":0,\"ix\":1,\"mn\":\"ADBE Vector Group\",\"hd\":false}],\"ip\":0,\"op\":45.0000018328876,\"st\":0,\"bm\":0}],\"markers\":[]}\""
+      "offset": 4229,
+      "length": 23,
+      "value": "\"checkmark.circle.fill\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/Popover.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 4315,
+      "length": 38,
+      "value": "\"Capture complete! Let’s upload it.\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 4385,
+      "length": 8,
+      "value": "\"Upload\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 4434,
+      "length": 15,
+      "value": "\"Upload tapped\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 4516,
+      "length": 7,
+      "value": "\"Alert\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4680,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 4723,
+      "length": 29,
+      "value": "\"exclamationmark.circle.fill\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 4803,
+      "length": 8,
+      "value": "\"Alert!\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 4834,
+      "length": 74,
+      "value": "\"This FRAlert has all the things! It's also presented as a view modifier.\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 4936,
+      "length": 6,
+      "value": "\"True\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 4979,
+      "length": 15,
+      "value": "\"Upload tapped\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 5027,
+      "length": 5,
+      "value": "\"Yep\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "kind": "StringLiteral",
+      "offset": 5071,
+      "length": 15,
+      "value": "\"Cancel tapped\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 539,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 571,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
       "kind": "IntegerLiteral",
-      "offset": 309,
+      "offset": 610,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 725,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2096,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/BlurView.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "StringLiteral",
+      "offset": 2126,
+      "length": 14,
+      "value": "\"Test Enabled\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "StringLiteral",
+      "offset": 2187,
+      "length": 15,
+      "value": "\"Test Disabled\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2215,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "StringLiteral",
+      "offset": 2267,
+      "length": 22,
+      "value": "\"Test Enabled Rounded\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2305,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "StringLiteral",
+      "offset": 2354,
+      "length": 23,
+      "value": "\"Test Disabled Rounded\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2390,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2411,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "StringLiteral",
+      "offset": 2460,
+      "length": 12,
+      "value": "\"Test Color\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2488,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "StringLiteral",
+      "offset": 2596,
+      "length": 11,
+      "value": "\"Test Icon\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "StringLiteral",
+      "offset": 2632,
+      "length": 18,
+      "value": "\"checkmark.circle\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
       "kind": "FloatLiteral",
-      "offset": 286,
+      "offset": 2662,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
-      "kind": "Array",
-      "offset": 660,
-      "length": 103,
-      "value": "[-1.0, -1.0, 0.0, 1.0, 1.0, -1.0, 1.0, 1.0, -1.0, 1.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0]"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
       "kind": "IntegerLiteral",
-      "offset": 809,
-      "length": 1,
-      "value": "0"
+      "offset": 2681,
+      "length": 2,
+      "value": "14"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2701,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2733,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
+      "kind": "Dictionary",
+      "offset": 194,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
+      "kind": "FloatLiteral",
+      "offset": 763,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 804,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
       "kind": "IntegerLiteral",
       "offset": 839,
       "length": 1,
-      "value": "0"
+      "value": "8"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
       "kind": "IntegerLiteral",
-      "offset": 877,
+      "offset": 881,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
+      "kind": "Dictionary",
+      "offset": 1737,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
+      "kind": "Array",
+      "offset": 8319,
+      "length": 139,
+      "value": "[\"This is the first page, driven by data.\", \"This is the second page.\", \"And this is the final, third page.\"]"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8489,
       "length": 1,
       "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
-      "kind": "IntegerLiteral",
-      "offset": 911,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
-      "kind": "BooleanLiteral",
-      "offset": 960,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1419,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3733,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3937,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
-      "kind": "BooleanLiteral",
-      "offset": 39582,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Native\/DefaultNativeBridge.swift",
-      "kind": "StringLiteral",
-      "offset": 468,
-      "length": 55,
-      "value": "\"com.lexisnexis.risk.FlyreelMeshScan.nativebridge.sync\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Native\/DefaultNativeBridge.swift",
-      "kind": "BooleanLiteral",
-      "offset": 560,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Models\/MeshScanUIState.swift",
-      "kind": "BooleanLiteral",
-      "offset": 164,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Models\/MeshScanUIState.swift",
-      "kind": "BooleanLiteral",
-      "offset": 198,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Models\/MeshScanUIState.swift",
-      "kind": "BooleanLiteral",
-      "offset": 278,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 204,
-      "length": 21,
-      "value": "\"alert_dialog_cancel\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 286,
-      "length": 20,
-      "value": "\"alert_dialog_error\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 366,
-      "length": 19,
-      "value": "\"alert_dialog_exit\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 443,
-      "length": 17,
-      "value": "\"alert_dialog_ok\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 519,
-      "length": 17,
-      "value": "\"button_continue\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 591,
-      "length": 13,
-      "value": "\"button_done\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 659,
-      "length": 13,
-      "value": "\"button_next\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 728,
-      "length": 14,
-      "value": "\"button_start\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 819,
-      "length": 38,
-      "value": "\"camera_permission_denied_button_text\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 936,
-      "length": 39,
-      "value": "\"camera_permission_denied_instructions\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 1047,
-      "length": 32,
-      "value": "\"camera_permission_denied_title\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 1152,
-      "length": 32,
-      "value": "\"camera_permission_instructions\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 1250,
-      "length": 25,
-      "value": "\"camera_permission_title\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 1331,
-      "length": 14,
-      "value": "\"exit_message\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 1399,
-      "length": 12,
-      "value": "\"exit_title\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 1479,
-      "length": 28,
-      "value": "\"guidance_message_done_when\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 1571,
-      "length": 23,
-      "value": "\"guidance_message_scan\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 1663,
-      "length": 29,
-      "value": "\"guidance_message_walk_edges\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 1761,
-      "length": 29,
-      "value": "\"guidance_message_walk_space\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 1850,
-      "length": 18,
-      "value": "\"navigation_title\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 1936,
-      "length": 27,
-      "value": "\"onboarding_settings_error\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 2029,
-      "length": 25,
-      "value": "\"settings_instructions_0\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 2120,
-      "length": 25,
-      "value": "\"settings_instructions_1\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 2217,
-      "length": 32,
-      "value": "\"settings_instructions_2_camera\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 2305,
-      "length": 14,
-      "value": "\"tooltip_done\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 2380,
-      "length": 20,
-      "value": "\"tutorial_message_0\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
-      "kind": "StringLiteral",
-      "offset": 2461,
-      "length": 20,
-      "value": "\"tutorial_message_1\""
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/LoopingVideoView.swift",
@@ -3064,18 +2903,340 @@
       "value": "\"badreference\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/OnboardingView.swift",
-      "kind": "StringLiteral",
-      "offset": 3844,
-      "length": 23,
-      "value": "\"Camera Not Determined\""
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/Popover.swift",
+      "kind": "IntegerLiteral",
+      "offset": 309,
+      "length": 2,
+      "value": "16"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/ToolbarView.swift",
       "kind": "StringLiteral",
-      "offset": 4116,
-      "length": 15,
-      "value": "\"Camera Denied\""
+      "offset": 2634,
+      "length": 10,
+      "value": "\"ellipsis\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/ClientID.swift",
+      "kind": "StringLiteral",
+      "offset": 168,
+      "length": 38,
+      "value": "\"5215E9E2-A6C3-42AE-8895-A1B5130F6D94\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 200,
+      "length": 21,
+      "value": "\"alert_dialog_cancel\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 281,
+      "length": 19,
+      "value": "\"alert_dialog_exit\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 358,
+      "length": 17,
+      "value": "\"alert_dialog_ok\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 436,
+      "length": 20,
+      "value": "\"alert_dialog_error\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 515,
+      "length": 17,
+      "value": "\"button_continue\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 587,
+      "length": 13,
+      "value": "\"button_done\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 655,
+      "length": 13,
+      "value": "\"button_next\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 724,
+      "length": 14,
+      "value": "\"button_start\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 818,
+      "length": 33,
+      "value": "\"invalid_client_id_alert_message\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 936,
+      "length": 25,
+      "value": "\"camera_permission_title\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 1034,
+      "length": 41,
+      "value": "\"meshscan_camera_permission_instructions\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 1147,
+      "length": 32,
+      "value": "\"camera_permission_denied_title\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 1258,
+      "length": 48,
+      "value": "\"meshscan_camera_permission_denied_instructions\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 1383,
+      "length": 38,
+      "value": "\"camera_permission_denied_button_text\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 1489,
+      "length": 36,
+      "value": "\"meshscan_onboarding_settings_error\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 1591,
+      "length": 34,
+      "value": "\"meshscan_settings_instructions_0\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 1691,
+      "length": 34,
+      "value": "\"meshscan_settings_instructions_1\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 1797,
+      "length": 41,
+      "value": "\"meshscan_settings_instructions_2_camera\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 1914,
+      "length": 31,
+      "value": "\"meshscan_capture_screen_title\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 2023,
+      "length": 29,
+      "value": "\"meshscan_tutorial_message_0\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 2113,
+      "length": 29,
+      "value": "\"meshscan_tutorial_message_1\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 2237,
+      "length": 38,
+      "value": "\"meshscan_guidance_message_walk_space\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 2344,
+      "length": 38,
+      "value": "\"meshscan_guidance_message_walk_edges\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 2446,
+      "length": 32,
+      "value": "\"meshscan_guidance_message_scan\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 2546,
+      "length": 37,
+      "value": "\"meshscan_guidance_message_done_when\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 2639,
+      "length": 14,
+      "value": "\"tooltip_done\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 2730,
+      "length": 30,
+      "value": "\"meshscan_exit_alert_headline\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 2816,
+      "length": 29,
+      "value": "\"meshscan_exit_alert_message\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/PreviewData.swift",
+      "kind": "StringLiteral",
+      "offset": 156,
+      "length": 4237,
+      "value": "\"{\"v\":\"5.5.7\",\"meta\":{\"g\":\"LottieFiles AE 0.1.21\",\"a\":\"\",\"k\":\"\",\"d\":\"\",\"tc\":\"\"},\"fr\":29.9700012207031,\"ip\":0,\"op\":45.0000018328876,\"w\":90,\"h\":266,\"nm\":\"Comp 1\",\"ddd\":0,\"assets\":[],\"layers\":[{\"ddd\":0,\"ind\":1,\"ty\":4,\"nm\":\"top arrow Outlines\",\"sr\":1,\"ks\":{\"o\":{\"a\":1,\"k\":[{\"i\":{\"x\":[0.667],\"y\":[1]},\"o\":{\"x\":[0.333],\"y\":[0]},\"t\":10,\"s\":[0]},{\"i\":{\"x\":[0.667],\"y\":[1]},\"o\":{\"x\":[0.333],\"y\":[0]},\"t\":25,\"s\":[100]},{\"t\":35.0000014255792,\"s\":[0]}],\"ix\":11},\"r\":{\"a\":0,\"k\":0,\"ix\":10},\"p\":{\"a\":1,\"k\":[{\"i\":{\"x\":0.667,\"y\":1},\"o\":{\"x\":0.333,\"y\":0},\"t\":10,\"s\":[44.5,25.807,0],\"to\":[0,8.667,0],\"ti\":[0,-8.667,0]},{\"t\":35.0000014255792,\"s\":[44.5,77.807,0]}],\"ix\":2},\"a\":{\"a\":0,\"k\":[179,112.889,0],\"ix\":1},\"s\":{\"a\":0,\"k\":[33.333,33.333,100],\"ix\":6}},\"ao\":0,\"shapes\":[{\"ty\":\"gr\",\"it\":[{\"ind\":0,\"ty\":\"sh\",\"ix\":1,\"ks\":{\"a\":0,\"k\":{\"i\":[[0,0],[0,0],[0,0]],\"o\":[[0,0],[0,0],[0,0]],\"v\":[[-119,-52.889],[1.322,52.889],[119,-52.889]],\"c\":false},\"ix\":2},\"nm\":\"Path 1\",\"mn\":\"ADBE Vector Shape - Group\",\"hd\":false},{\"ty\":\"st\",\"c\":{\"a\":0,\"k\":[1,1,1,1],\"ix\":3},\"o\":{\"a\":0,\"k\":100,\"ix\":4},\"w\":{\"a\":0,\"k\":24,\"ix\":5},\"lc\":2,\"lj\":2,\"bm\":0,\"nm\":\"Stroke 1\",\"mn\":\"ADBE Vector Graphic - Stroke\",\"hd\":false},{\"ty\":\"tr\",\"p\":{\"a\":0,\"k\":[179,112.889],\"ix\":2},\"a\":{\"a\":0,\"k\":[0,0],\"ix\":1},\"s\":{\"a\":0,\"k\":[100,100],\"ix\":3},\"r\":{\"a\":0,\"k\":0,\"ix\":6},\"o\":{\"a\":0,\"k\":100,\"ix\":7},\"sk\":{\"a\":0,\"k\":0,\"ix\":4},\"sa\":{\"a\":0,\"k\":0,\"ix\":5},\"nm\":\"Transform\"}],\"nm\":\"Group 1\",\"np\":2,\"cix\":2,\"bm\":0,\"ix\":1,\"mn\":\"ADBE Vector Group\",\"hd\":false}],\"ip\":0,\"op\":45.0000018328876,\"st\":0,\"bm\":0},{\"ddd\":0,\"ind\":2,\"ty\":4,\"nm\":\"middle arrow Outlines\",\"sr\":1,\"ks\":{\"o\":{\"a\":1,\"k\":[{\"i\":{\"x\":[0.667],\"y\":[1]},\"o\":{\"x\":[0.333],\"y\":[0]},\"t\":5,\"s\":[0]},{\"i\":{\"x\":[0.667],\"y\":[1]},\"o\":{\"x\":[0.333],\"y\":[0]},\"t\":20,\"s\":[100]},{\"t\":30.0000012219251,\"s\":[0]}],\"ix\":11},\"r\":{\"a\":0,\"k\":0,\"ix\":10},\"p\":{\"a\":1,\"k\":[{\"i\":{\"x\":0.667,\"y\":1},\"o\":{\"x\":0.333,\"y\":0},\"t\":5,\"s\":[44.5,108.667,0],\"to\":[0,8.667,0],\"ti\":[0,-8.667,0]},{\"t\":30.0000012219251,\"s\":[44.5,160.667,0]}],\"ix\":2},\"a\":{\"a\":0,\"k\":[179,112.889,0],\"ix\":1},\"s\":{\"a\":0,\"k\":[33.333,33.333,100],\"ix\":6}},\"ao\":0,\"shapes\":[{\"ty\":\"gr\",\"it\":[{\"ind\":0,\"ty\":\"sh\",\"ix\":1,\"ks\":{\"a\":0,\"k\":{\"i\":[[0,0],[0,0],[0,0]],\"o\":[[0,0],[0,0],[0,0]],\"v\":[[-119,-52.889],[1.322,52.889],[119,-52.889]],\"c\":false},\"ix\":2},\"nm\":\"Path 1\",\"mn\":\"ADBE Vector Shape - Group\",\"hd\":false},{\"ty\":\"st\",\"c\":{\"a\":0,\"k\":[1,1,1,1],\"ix\":3},\"o\":{\"a\":0,\"k\":100,\"ix\":4},\"w\":{\"a\":0,\"k\":24,\"ix\":5},\"lc\":2,\"lj\":2,\"bm\":0,\"nm\":\"Stroke 1\",\"mn\":\"ADBE Vector Graphic - Stroke\",\"hd\":false},{\"ty\":\"tr\",\"p\":{\"a\":0,\"k\":[179,112.889],\"ix\":2},\"a\":{\"a\":0,\"k\":[0,0],\"ix\":1},\"s\":{\"a\":0,\"k\":[100,100],\"ix\":3},\"r\":{\"a\":0,\"k\":0,\"ix\":6},\"o\":{\"a\":0,\"k\":100,\"ix\":7},\"sk\":{\"a\":0,\"k\":0,\"ix\":4},\"sa\":{\"a\":0,\"k\":0,\"ix\":5},\"nm\":\"Transform\"}],\"nm\":\"Group 1\",\"np\":2,\"cix\":2,\"bm\":0,\"ix\":1,\"mn\":\"ADBE Vector Group\",\"hd\":false}],\"ip\":0,\"op\":45.0000018328876,\"st\":0,\"bm\":0},{\"ddd\":0,\"ind\":3,\"ty\":4,\"nm\":\"lower arrow Outlines\",\"sr\":1,\"ks\":{\"o\":{\"a\":1,\"k\":[{\"i\":{\"x\":[0.667],\"y\":[1]},\"o\":{\"x\":[0.333],\"y\":[0]},\"t\":0,\"s\":[0]},{\"i\":{\"x\":[0.667],\"y\":[1]},\"o\":{\"x\":[0.333],\"y\":[0]},\"t\":15,\"s\":[100]},{\"t\":25.0000010182709,\"s\":[0]}],\"ix\":11},\"r\":{\"a\":0,\"k\":0,\"ix\":10},\"p\":{\"a\":1,\"k\":[{\"i\":{\"x\":0.667,\"y\":1},\"o\":{\"x\":0.333,\"y\":0},\"t\":0,\"s\":[44.5,191.526,0],\"to\":[0,8.667,0],\"ti\":[0,-8.667,0]},{\"t\":25.0000010182709,\"s\":[44.5,243.526,0]}],\"ix\":2},\"a\":{\"a\":0,\"k\":[179,130,0],\"ix\":1},\"s\":{\"a\":0,\"k\":[33.333,33.333,100],\"ix\":6}},\"ao\":0,\"shapes\":[{\"ty\":\"gr\",\"it\":[{\"ind\":0,\"ty\":\"sh\",\"ix\":1,\"ks\":{\"a\":0,\"k\":{\"i\":[[0,0],[0,0],[0,0]],\"o\":[[0,0],[0,0],[0,0]],\"v\":[[-119,-52.889],[1.322,52.889],[119,-52.889]],\"c\":false},\"ix\":2},\"nm\":\"Path 1\",\"mn\":\"ADBE Vector Shape - Group\",\"hd\":false},{\"ty\":\"st\",\"c\":{\"a\":0,\"k\":[1,1,1,1],\"ix\":3},\"o\":{\"a\":0,\"k\":100,\"ix\":4},\"w\":{\"a\":0,\"k\":24,\"ix\":5},\"lc\":2,\"lj\":2,\"bm\":0,\"nm\":\"Stroke 1\",\"mn\":\"ADBE Vector Graphic - Stroke\",\"hd\":false},{\"ty\":\"tr\",\"p\":{\"a\":0,\"k\":[179,112.889],\"ix\":2},\"a\":{\"a\":0,\"k\":[0,0],\"ix\":1},\"s\":{\"a\":0,\"k\":[100,100],\"ix\":3},\"r\":{\"a\":0,\"k\":0,\"ix\":6},\"o\":{\"a\":0,\"k\":100,\"ix\":7},\"sk\":{\"a\":0,\"k\":0,\"ix\":4},\"sa\":{\"a\":0,\"k\":0,\"ix\":5},\"nm\":\"Transform\"}],\"nm\":\"Group 1\",\"np\":2,\"cix\":2,\"bm\":0,\"ix\":1,\"mn\":\"ADBE Vector Group\",\"hd\":false}],\"ip\":0,\"op\":45.0000018328876,\"st\":0,\"bm\":0}],\"markers\":[]}\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
+      "kind": "IntegerLiteral",
+      "offset": 917,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 960,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 995,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1038,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1077,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
+      "kind": "FloatLiteral",
+      "offset": 1115,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1158,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
+      "kind": "FloatLiteral",
+      "offset": 1653,
+      "length": 4,
+      "value": "81.4"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1715,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1758,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Models\/MeshScanUIState.swift",
+      "kind": "BooleanLiteral",
+      "offset": 164,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Models\/MeshScanUIState.swift",
+      "kind": "BooleanLiteral",
+      "offset": 198,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Models\/MeshScanUIState.swift",
+      "kind": "BooleanLiteral",
+      "offset": 278,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Capture\/DefaultCaptureService.swift",
+      "kind": "BooleanLiteral",
+      "offset": 338,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Capture\/DefaultCaptureService.swift",
+      "kind": "StringLiteral",
+      "offset": 527,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Capture\/DefaultCaptureService.swift",
+      "kind": "StringLiteral",
+      "offset": 579,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Capture\/MockCaptureService.swift",
@@ -3083,6 +3244,90 @@
       "offset": 301,
       "length": 31,
       "value": "\">>> MockCaptureService.init()\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Rendering\/DefaultRenderingService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 709,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Rendering\/DefaultRenderingService.swift",
+      "kind": "BooleanLiteral",
+      "offset": 926,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Rendering\/DefaultRenderingService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 972,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Rendering\/DefaultRenderingService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1010,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Rendering\/DefaultRenderingService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1051,
+      "length": 3,
+      "value": "640"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Rendering\/DefaultRenderingService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1095,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Rendering\/DefaultRenderingService.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1372,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Extensions\/Storyboard+Loaders.swift",
+      "kind": "StringLiteral",
+      "offset": 161,
+      "length": 18,
+      "value": "\"NativeMeshScanV3\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Extensions\/UIView+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 181,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ViewControllers\/CameraRotateViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 378,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ViewControllers\/IntroViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 719,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ViewControllers\/IntroViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 745,
+      "length": 1,
+      "value": "0"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ViewControllers\/NativeMeshScanV3ViewController.swift",
@@ -3218,58 +3463,79 @@
       "value": "0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
-      "kind": "Dictionary",
-      "offset": 194,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
-      "kind": "FloatLiteral",
-      "offset": 763,
-      "length": 3,
-      "value": "0.2"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ARProjector.swift",
       "kind": "IntegerLiteral",
-      "offset": 804,
+      "offset": 310,
       "length": 1,
-      "value": "8"
+      "value": "0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ARProjector.swift",
       "kind": "IntegerLiteral",
-      "offset": 839,
+      "offset": 335,
       "length": 1,
-      "value": "8"
+      "value": "0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ARProjector.swift",
       "kind": "IntegerLiteral",
-      "offset": 881,
-      "length": 2,
-      "value": "24"
+      "offset": 360,
+      "length": 1,
+      "value": "0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
-      "kind": "Dictionary",
-      "offset": 1737,
-      "length": 3,
-      "value": "[]"
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ARProjector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 386,
+      "length": 1,
+      "value": "0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ARProjector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 412,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ARProjector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 438,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/CodeMesh.swift",
       "kind": "Array",
-      "offset": 8319,
-      "length": 139,
-      "value": "[\"This is the first page, driven by data.\", \"This is the second page.\", \"And this is the final, third page.\"]"
+      "offset": 329,
+      "length": 2,
+      "value": "[]"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRPager.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/CodeMesh.swift",
+      "kind": "Array",
+      "offset": 369,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/CodeMesh.swift",
+      "kind": "Array",
+      "offset": 411,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/CodeMesh.swift",
       "kind": "IntegerLiteral",
-      "offset": 8489,
+      "offset": 467,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/CodeMesh.swift",
+      "kind": "IntegerLiteral",
+      "offset": 512,
       "length": 1,
       "value": "0"
     },
@@ -3659,39 +3925,88 @@
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Capture\/DefaultCaptureService.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
+      "kind": "Array",
+      "offset": 660,
+      "length": 103,
+      "value": "[-1.0, -1.0, 0.0, 1.0, 1.0, -1.0, 1.0, 1.0, -1.0, 1.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0]"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 809,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 839,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 877,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 911,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
       "kind": "BooleanLiteral",
-      "offset": 338,
+      "offset": 960,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Capture\/DefaultCaptureService.swift",
-      "kind": "StringLiteral",
-      "offset": 527,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Capture\/DefaultCaptureService.swift",
-      "kind": "StringLiteral",
-      "offset": 579,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ViewControllers\/IntroViewController.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
       "kind": "IntegerLiteral",
-      "offset": 719,
+      "offset": 1419,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3733,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ViewControllers\/IntroViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 745,
-      "length": 1,
-      "value": "0"
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3937,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Renderer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 39582,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Native\/DefaultNativeBridge.swift",
+      "kind": "StringLiteral",
+      "offset": 468,
+      "length": 55,
+      "value": "\"com.lexisnexis.risk.FlyreelMeshScan.nativebridge.sync\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Native\/DefaultNativeBridge.swift",
+      "kind": "BooleanLiteral",
+      "offset": 560,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Theme\/Font+Theme.swift",
@@ -3792,352 +4107,58 @@
       "value": "14"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/ClientID.swift",
-      "kind": "StringLiteral",
-      "offset": 168,
-      "length": 38,
-      "value": "\"5215E9E2-A6C3-42AE-8895-A1B5130F6D94\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/Extensions\/View+Module.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 489,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "FloatLiteral",
-      "offset": 539,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "BooleanLiteral",
-      "offset": 571,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "IntegerLiteral",
-      "offset": 610,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "BooleanLiteral",
-      "offset": 725,
+      "offset": 294,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2096,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "StringLiteral",
-      "offset": 2126,
-      "length": 14,
-      "value": "\"Test Enabled\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "StringLiteral",
-      "offset": 2187,
-      "length": 15,
-      "value": "\"Test Disabled\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2215,
+      "offset": 347,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "StringLiteral",
-      "offset": 2267,
-      "length": 22,
-      "value": "\"Test Enabled Rounded\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2305,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "StringLiteral",
-      "offset": 2354,
-      "length": 23,
-      "value": "\"Test Disabled Rounded\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2390,
+      "offset": 397,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2411,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "StringLiteral",
-      "offset": 2460,
-      "length": 12,
-      "value": "\"Test Color\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2488,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "StringLiteral",
-      "offset": 2596,
-      "length": 11,
-      "value": "\"Test Icon\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "StringLiteral",
-      "offset": 2632,
-      "length": 18,
-      "value": "\"checkmark.circle\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "FloatLiteral",
-      "offset": 2662,
-      "length": 3,
-      "value": "0.5"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2681,
-      "length": 2,
-      "value": "14"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2701,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRButton.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2733,
-      "length": 2,
-      "value": "24"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Rendering\/DefaultRenderingService.swift",
-      "kind": "IntegerLiteral",
-      "offset": 709,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Rendering\/DefaultRenderingService.swift",
-      "kind": "BooleanLiteral",
-      "offset": 926,
+      "offset": 443,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Rendering\/DefaultRenderingService.swift",
-      "kind": "IntegerLiteral",
-      "offset": 972,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Rendering\/DefaultRenderingService.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1010,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Rendering\/DefaultRenderingService.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1051,
-      "length": 3,
-      "value": "640"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Rendering\/DefaultRenderingService.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1095,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Services\/Rendering\/DefaultRenderingService.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1372,
+      "offset": 488,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/MessageOverlay.swift",
-      "kind": "StringLiteral",
-      "offset": 1381,
-      "length": 17,
-      "value": "\"Messages Layout\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/MessageOverlay.swift",
-      "kind": "StringLiteral",
-      "offset": 1561,
-      "length": 15,
-      "value": "\"Hello, World!\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/MessageOverlay.swift",
-      "kind": "StringLiteral",
-      "offset": 1611,
-      "length": 66,
-      "value": "\"Long longgggg longgggggggg message to test wrapping in the view.\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/MessageOverlay.swift",
-      "kind": "StringLiteral",
-      "offset": 1712,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/MessageOverlay.swift",
-      "kind": "StringLiteral",
-      "offset": 1744,
-      "length": 16,
-      "value": "\"View Extension\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/MessageOverlay.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1913,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/MessageOverlay.swift",
-      "kind": "StringLiteral",
-      "offset": 1926,
-      "length": 15,
-      "value": "\"Hello, World!\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/Extensions\/UIView+Extensions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 181,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/DeviceDownOverlay.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1549,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
-      "kind": "IntegerLiteral",
-      "offset": 917,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
-      "kind": "BooleanLiteral",
-      "offset": 960,
+      "offset": 538,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 995,
+      "offset": 643,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/ViewModels\/MeshScanViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1038,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1077,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
-      "kind": "FloatLiteral",
-      "offset": 1115,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1158,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
-      "kind": "FloatLiteral",
-      "offset": 1653,
-      "length": 4,
-      "value": "81.4"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1715,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Core\/Coordinators\/MeshScanCoordinator.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1758,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Legacy\/ViewControllers\/CameraRotateViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 378,
+      "offset": 740,
       "length": 5,
       "value": "false"
     },
@@ -4198,151 +4219,130 @@
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 3448,
-      "length": 6,
-      "value": "\"Exit\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 3628,
-      "length": 21,
-      "value": "\"Exit 360° Capture?\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 3676,
-      "length": 91,
-      "value": "\"If you exit, you’ll be taken back to the chat where you can restart your 360° capture.\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 3799,
-      "length": 6,
-      "value": "\"Exit\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 3846,
-      "length": 13,
-      "value": "\"Exit tapped\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 3896,
-      "length": 8,
-      "value": "\"Cancel\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 3947,
-      "length": 15,
-      "value": "\"Cancel tapped\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 4028,
-      "length": 10,
-      "value": "\"Complete\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 4229,
-      "length": 23,
-      "value": "\"checkmark.circle.fill\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 4315,
-      "length": 38,
-      "value": "\"Capture complete! Let’s upload it.\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 4385,
-      "length": 8,
-      "value": "\"Upload\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 4434,
-      "length": 15,
-      "value": "\"Upload tapped\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 4516,
-      "length": 7,
-      "value": "\"Alert\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/DeviceDownOverlay.swift",
       "kind": "BooleanLiteral",
-      "offset": 4680,
+      "offset": 1549,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/MessageOverlay.swift",
       "kind": "StringLiteral",
-      "offset": 4723,
-      "length": 29,
-      "value": "\"exclamationmark.circle.fill\""
+      "offset": 1381,
+      "length": 17,
+      "value": "\"Messages Layout\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/MessageOverlay.swift",
       "kind": "StringLiteral",
-      "offset": 4803,
-      "length": 8,
-      "value": "\"Alert!\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 4834,
-      "length": 74,
-      "value": "\"This FRAlert has all the things! It's also presented as a view modifier.\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 4936,
-      "length": 6,
-      "value": "\"True\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
-      "kind": "StringLiteral",
-      "offset": 4979,
+      "offset": 1561,
       "length": 15,
-      "value": "\"Upload tapped\""
+      "value": "\"Hello, World!\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/MessageOverlay.swift",
       "kind": "StringLiteral",
-      "offset": 5027,
+      "offset": 1611,
+      "length": 66,
+      "value": "\"Long longgggg longgggggggg message to test wrapping in the view.\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/MessageOverlay.swift",
+      "kind": "StringLiteral",
+      "offset": 1712,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/MessageOverlay.swift",
+      "kind": "StringLiteral",
+      "offset": 1744,
+      "length": 16,
+      "value": "\"View Extension\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/MessageOverlay.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1913,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/MessageOverlay.swift",
+      "kind": "StringLiteral",
+      "offset": 1926,
+      "length": 15,
+      "value": "\"Hello, World!\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/OnboardingView.swift",
+      "kind": "StringLiteral",
+      "offset": 3844,
+      "length": 23,
+      "value": "\"Camera Not Determined\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/OnboardingView.swift",
+      "kind": "StringLiteral",
+      "offset": 4116,
+      "length": 15,
+      "value": "\"Camera Denied\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
+      "kind": "IntegerLiteral",
+      "offset": 284,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3128,
       "length": 5,
-      "value": "\"Yep\""
+      "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/Common\/UI\/FRAlert.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
       "kind": "StringLiteral",
-      "offset": 5071,
-      "length": 15,
-      "value": "\"Cancel tapped\""
+      "offset": 3430,
+      "length": 7,
+      "value": "\"Start\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3632,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3664,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
+      "kind": "StringLiteral",
+      "offset": 3763,
+      "length": 10,
+      "value": "\"Continue\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3940,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-meshscan\/ios\/FlyreelMeshScan\/UI\/Views\/TutorialOverlay.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3968,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelMeshScan-fegnhlrguzrrducbsygwzltmnrbc\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelMeshScan\/IntermediateBuildFilesPath\/FlyreelMeshScan.build\/Release-iphonesimulator\/FlyreelMeshScan.build\/DerivedSources\/GeneratedAssetSymbols.swift",
