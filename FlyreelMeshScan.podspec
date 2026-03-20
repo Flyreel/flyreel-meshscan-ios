@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "FlyreelMeshScan"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "Flyreel Mesh Scan."
   spec.homepage     = "https://risk.lexisnexis.com/products/flyreel"
 
