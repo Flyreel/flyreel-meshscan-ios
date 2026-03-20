@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		a5cTLvvWLSlrbFcZd+jSbfSo9D4=
+		3TTgStGsPBxQAdQ7Vq7j2dMDODg=
 		</data>
 		<key>Gilroy-Medium.otf</key>
 		<data>
@@ -26,47 +26,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HR6Loo1ncnnYUGFUgs1QCukVBbc=
+		X7XJD+XwV6BHyvuCj1BYfooZliE=
 		</data>
 		<key>Modules/FlyreelMeshScan.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		uoCsOCDh+2tsCpHD7qQqv1lrKJM=
+		k1BIQmvZL2iMlBXpgG9yinkQkW0=
 		</data>
 		<key>Modules/FlyreelMeshScan.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		NJ2sdR3Z894nJIEpXM6VbWDmro0=
+		EldvSJAR0ioY+JXp1XiXpnqYGko=
 		</data>
 		<key>Modules/FlyreelMeshScan.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		yvu48AkTv36ZmQt5hz4232cMTi0=
+		wBUXdgtIzXlHe0oKJ7zF0RezY9g=
 		</data>
 		<key>Modules/FlyreelMeshScan.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		NJ2sdR3Z894nJIEpXM6VbWDmro0=
+		EldvSJAR0ioY+JXp1XiXpnqYGko=
 		</data>
 		<key>Modules/FlyreelMeshScan.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3YVCLBzHQo55kxI8Wo0gKuchSa4=
+		FzhQ2Xcejk9GZwN6w28c9NIls98=
 		</data>
 		<key>Modules/FlyreelMeshScan.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		uoCsOCDh+2tsCpHD7qQqv1lrKJM=
+		k1BIQmvZL2iMlBXpgG9yinkQkW0=
 		</data>
 		<key>Modules/FlyreelMeshScan.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		EKcrWNyrpOdDV8hqRrP+BgQyIeM=
+		CtUwz5HgbiGN/ZhmWa/7JLArGWY=
 		</data>
 		<key>Modules/FlyreelMeshScan.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		l1FyyHZZuLWTRfHA5/CnsEdgSqc=
+		uUopFobKU+xawe+WmsATlGpvpQ8=
 		</data>
 		<key>Modules/FlyreelMeshScan.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		EKcrWNyrpOdDV8hqRrP+BgQyIeM=
+		CtUwz5HgbiGN/ZhmWa/7JLArGWY=
 		</data>
 		<key>Modules/FlyreelMeshScan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8gWNbocu0aNf9IAbAod8zYbvWEw=
+		j/zu4pkPE0UP+vnTqs3aQPKoorU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>NativeMeshScanV3.storyboardc/7ah-YF-z8k-view-wtw-1b-gbt.nib</key>
 		<data>
-		n2AzG3gcMk0zCoWLnCRfzjdZinA=
+		RBMvTnD2kYs3QmY9AWdjhgu6V4o=
 		</data>
 		<key>NativeMeshScanV3.storyboardc/AlertViewController.nib</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>NativeMeshScanV3.storyboardc/BV1-FR-VrT-view-qMw-7R-Gh3.nib</key>
 		<data>
-		w9YyV41OPHRGazw7qAb/D4X9+sI=
+		yFt/J/qDMLxmukz4yYxVxBLXNaw=
 		</data>
 		<key>NativeMeshScanV3.storyboardc/CameraDownViewController.nib</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>NativeMeshScanV3.storyboardc/NativeMeshScanV3Identifier.nib</key>
 		<data>
-		1xhFgkEwOZKXqfaIZnLM7/pUd9o=
+		fANV/qzTxD3N9b/nYKJAElD1Z8Y=
 		</data>
 		<key>NativeMeshScanV3.storyboardc/NativeMeshScanV3ViewController.nib</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>default.metallib</key>
 		<data>
-		67q9zdrdeai3mWAso1QJ6J2kDAM=
+		+hpH6Hvssq+5XZnoiX2y9f9/wLQ=
 		</data>
 		<key>down-arrow.json</key>
 		<data>
@@ -156,7 +156,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Pahgckx7v49hwcDzkVcXegU0k7s=
+			8c7Nk4K3qUENElo4Ud9qCQ7W/gk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -188,7 +188,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AGNcRWTiEwbnyaHBZQojj5Dw6O8+TNk7pNGGho3Oc3o=
+			G9Stt9LJ4PFv02JbcMZ5d2ujeeqdfq/+ifXN9XaO5sE=
 			</data>
 		</dict>
 		<key>Gilroy-Medium.otf</key>
@@ -223,70 +223,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XKbNOqWrLECboGz2ogD5PKXnLjbUVMZYx1yb/qFRMbI=
+			7hf2PrtT/CZRZgZldZ/n/SziNuH5ojBKTdFE2YQNltc=
 			</data>
 		</dict>
 		<key>Modules/FlyreelMeshScan.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YaQmAmHvXXeSP869ylHI0Wb/ql+WuKd6vWvlbLto3Xk=
+			0465aYNTXcdL+KjysD/xnizVF3BVCLo2Z7ae0HxFQ5k=
 			</data>
 		</dict>
 		<key>Modules/FlyreelMeshScan.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			doNLc11L9z6omJfgnnxXzOEbjD5HuHq0ecd8T8cKlyk=
+			9jwzOPUcKiQIxn1EZLp6xc+xZO6I1AkfMp10frKIssg=
 			</data>
 		</dict>
 		<key>Modules/FlyreelMeshScan.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YaQmAmHvXXeSP869ylHI0Wb/ql+WuKd6vWvlbLto3Xk=
+			0465aYNTXcdL+KjysD/xnizVF3BVCLo2Z7ae0HxFQ5k=
 			</data>
 		</dict>
 		<key>Modules/FlyreelMeshScan.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IPuAG1ZiIgc5RDXJCGRf7RQsO+klhkLsMqhkW9Z1nEY=
+			iMaap1HC9OZANZXqHHGzeoQ7zjqFiVaXmbd78voL6yg=
 			</data>
 		</dict>
 		<key>Modules/FlyreelMeshScan.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XKbNOqWrLECboGz2ogD5PKXnLjbUVMZYx1yb/qFRMbI=
+			7hf2PrtT/CZRZgZldZ/n/SziNuH5ojBKTdFE2YQNltc=
 			</data>
 		</dict>
 		<key>Modules/FlyreelMeshScan.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hvfBIuRQkQr2r9iihPBSVvxKdht9HR5ctFGt6xARmkI=
+			BDAa6zokKH5GH8J4WVS2LTF7iqJaJD3Era8s4koa1iE=
 			</data>
 		</dict>
 		<key>Modules/FlyreelMeshScan.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nd581QxWtTdHITiOPqaOcWVrqTb+15wCg9T7PjkkeMI=
+			umBjguVuruonIaIuYuXdhDMKn0OIJXnwUTk6IoLXuLU=
 			</data>
 		</dict>
 		<key>Modules/FlyreelMeshScan.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hvfBIuRQkQr2r9iihPBSVvxKdht9HR5ctFGt6xARmkI=
+			BDAa6zokKH5GH8J4WVS2LTF7iqJaJD3Era8s4koa1iE=
 			</data>
 		</dict>
 		<key>Modules/FlyreelMeshScan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZXsPD1GTea4v2fpibjtxaLxYnEVo2SrBbGkj5ac+Q+U=
+			yv8zY8Z8wPJ5x5JDtK4IHE1DSjXjfh4CDfglCclmcT4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -300,7 +300,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			od5/xaPGsbPvRBFfYakcPufOiZnJiWt6e60I4DT53Ec=
+			CXWkUsf6xz0EEEy8m5xjhgSer8Zs83MH+n1bSeg2gQM=
 			</data>
 		</dict>
 		<key>NativeMeshScanV3.storyboardc/AlertViewController.nib</key>
@@ -314,7 +314,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wVcYHzofx9JTJCkUkIgCEyTgXN1fMzHPXJxDb6B9l3I=
+			Ni24hm2fw7p4d/ZeQmDKXOBReO8GZvrynpa1Gpk3DF4=
 			</data>
 		</dict>
 		<key>NativeMeshScanV3.storyboardc/CameraDownViewController.nib</key>
@@ -349,7 +349,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p5CBZbNMxsmAd8WNeS5VTCeKdevAfFSNYJEac0cWrT4=
+			6fXxPpZq0U1/KB/beHf6p4HkWc974axBwsCMiqG68Hc=
 			</data>
 		</dict>
 		<key>NativeMeshScanV3.storyboardc/NativeMeshScanV3ViewController.nib</key>
@@ -426,7 +426,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mzL9a8eyYVsD/i2WbEiS7R5aWJeyGY2gRDz/z4kJTug=
+			1TWdrQxNj2+bU0BNeKaDQusyHeCCGed/0iNwp8UWA4w=
 			</data>
 		</dict>
 		<key>down-arrow.json</key>
@@ -440,7 +440,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yV0tybq0QSOWsJs/HFzFdpuxQdJ0kbvhI3UD70hKF7c=
+			DX3j2751HpDYPRcz+orS0zo0P/s4Q2uCHDRlUjx/HzQ=
 			</data>
 			<key>optional</key>
 			<true/>
